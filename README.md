@@ -1,5 +1,7 @@
-# IMDbPlayer
+# IMDbPlayer 
 *A chrome extension to integrate streaming TV shows and movies on 2Embed into IMDb*
+
+This is now depricated due to 2embed being taken down for copyright infrigement. I'm currently working on another tool so hang tight <3
 
 ## Installation
 You can simply install IMDbPlayer to Chrome/ Chromium based browsers by doing the following:
